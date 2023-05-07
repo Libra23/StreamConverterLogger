@@ -73,8 +73,4 @@ CMakeLists.txt.user*
 *.exe
 
 # CMake
-CMakeFiles/*
-StreamConverterLogger_autogen/*
-CMakeCache.txt
-cmake_install.cmake
-.qt/*
+build/*
